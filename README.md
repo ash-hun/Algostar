@@ -3,14 +3,16 @@ Algorithm Strategy Establishment Repository
 
 ## 👉 Collaborator
 [**> Ash_Hun**](https://github.com/ash-hun)  
-[**> HS980924**](https://github.com/HS980924)
+[**> HS980924**](https://github.com/HS980924)  
+**> junhanKoo**
 
 ## 👉 How to operate this repository
 - First, We set up the strategy of algorithm problem  
-- Second, We debate to personal theory  
-- Third, Solved Problem to algorithm problem  
+- Second, Solved Problem to algorithm problem  
+- Third, We debate to personal theory
 - Fourth, Processing Code Review  
 - Fifth, Summarize what you have personally studied.  
 
 ## 👉Contents
-- Programmers 고득점 kit, "스택&큐" Lv2, 기능개발 ( 3/16 or 17 )
+- Programmers 고득점 kit, "스택&큐" Lv2, 기능개발 ( 3/24 )
+- Programmers 고득점 kit, "스택&큐" Lv2, 프린터 ( 3/31 예정 )
