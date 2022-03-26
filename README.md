@@ -4,7 +4,7 @@ Algorithm Strategy Establishment Repository
 ## 👉 Collaborator
 [**> Ash_Hun**](https://github.com/ash-hun)  
 [**> HS980924**](https://github.com/HS980924)  
-**> junhanKoo**
+[**> Yurile72**](https://github.com/Yurile72)
 
 ## 👉 How to operate this repository
 - First, We set up the strategy of algorithm problem  
