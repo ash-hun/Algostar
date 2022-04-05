@@ -19,6 +19,8 @@ def solution(n):
     for element in matrix:
         answer+=element
     
+    #answer = sum(matrix,[]) #2차원 리스트 -> 1차원 dim 낮춘거
+    
     return answer
 
 print("n = 4 :", solution(4))
