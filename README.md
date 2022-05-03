@@ -19,3 +19,4 @@ Algorithm Strategy Establishment Repository
 - Programmers 2021 KAKAO BLIND RECRUMENT Lv2, 메뉴 리뉴얼 ( 4/05~ 문풀, 4/14 해결예정 )
 - Programmers 월간 코드 챌린지 시즌 3, Lv2, n^2 배열 자르기( 4/14~ 문풀, 4/24 해결예정 )
 - Programmers 연습문제 "스택" Lv2, 올바른 괄호 ( 4/14~ 문풀, 4/24 해결예정 )
+- Programmers 연습문제 "Greedy" Lv2, 큰수만들기 ( 4/24~ 문풀, 5/05 해결예정 )
