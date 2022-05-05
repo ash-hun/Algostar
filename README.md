@@ -20,3 +20,5 @@ Algorithm Strategy Establishment Repository
 - Programmers 월간 코드 챌린지 시즌 3, Lv2, n^2 배열 자르기( 4/14~ 문풀, 4/24 해결예정 )
 - Programmers 연습문제 "스택" Lv2, 올바른 괄호 ( 4/14~ 문풀, 4/24 해결예정 )
 - Programmers 연습문제 "Greedy" Lv2, 큰수만들기 ( 4/24~ 문풀, 5/05 해결예정 )
+- Programmers 연습문제 "Greedy" Lv2, 조이스틱 ( 5/05~ 문풀, 5/13 해결예정 )
+- 자체 해결문제 "최소횟수로 순환하는 꼬리잡기" ( 5/05~ 문풀, 5/13 해결예정 )
