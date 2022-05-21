@@ -22,4 +22,5 @@ Algorithm Strategy Establishment Repository
 - Programmers 연습문제 "Greedy" Lv2, 큰수만들기 ( 4/24~ 문풀, 5/05 해결예정 )
 - Programmers 연습문제 "Greedy" Lv2, 조이스틱 ( 5/05~ 문풀, 5/13 해결예정 )
 - 자체 해결문제 "최소횟수로 순환하는 꼬리잡기" ( 5/05~ 문풀, 5/13 해결예정 )
-- Programmers 연습문제 "Summer/Winter Coding 2018 스킬트리" ( 5/13~ 문풀, 5/20 해결예정 )
+- Programmers 연습문제 "Summer/Winter Coding 2018, 스킬트리" ( 5/13~ 문풀, 5/20 해결예정 )
+- Programmers 연습문제 "코딩테스트 고득점 Kit 깊이/너비 우선탐색, 타겟넘버" ( 5/20~ 문풀, 5/27 해결예정 )  
